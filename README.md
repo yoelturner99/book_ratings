@@ -44,9 +44,9 @@ Once the packages are installed, refresh the page and select the **.venv-book** 
 ## 5) Appendix: Hosting & Versioning
 For the versioning and hosting of the code, data and models we combined:
 - Github
-- DVC (Data Version Control): 
+- DVC (Data Version Control)
 - Google drive : https://drive.google.com/drive/u/0/folders/1dR0CdRVGBb4tKxbVoCbqSfeWz7gpLtWv
 
 Then, using the DVC API, we fetch the models and data from the cloud.
 
-ref: https://dvc.org/doc/use-cases/versioning-data-and-models
+Ref: https://dvc.org/doc/use-cases/versioning-data-and-models
