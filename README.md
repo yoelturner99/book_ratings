@@ -42,12 +42,11 @@ Once the packages are installed, refresh the page and select the **.venv-book** 
 - 4.4) Making Predictions
 
 ## 5) Appendix: Hosting & Versioning
-For the versioning and hosting of the code, data and models we used:
+For the versioning and hosting of the code, data and models we combined:
 - Github
-- DVC (Data Version Control): https://dvc.org/doc/use-cases/versioning-data-and-models
-- Google drive 
+- DVC (Data Version Control): 
+- Google drive : https://drive.google.com/drive/u/0/folders/1dR0CdRVGBb4tKxbVoCbqSfeWz7gpLtWv
 
-Where the models and data are stored on a Google drive folder:\
-https://drive.google.com/drive/u/0/folders/1dR0CdRVGBb4tKxbVoCbqSfeWz7gpLtWv
+Then, using the DVC API, we fetch the models and data from the cloud.
 
-And using the DVC API, we fetch the models and data from the cloud.
+ref: https://dvc.org/doc/use-cases/versioning-data-and-models
