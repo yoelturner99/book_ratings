@@ -50,3 +50,9 @@ For the versioning and hosting of the code, data and models we combined:
 Then, using the DVC API, we fetch the models and data from the cloud.
 
 Ref: https://dvc.org/doc/use-cases/versioning-data-and-models
+
+## Contributors
+- Stuart Yoel TURNER
+- Gaston AVELINE
+- Alexandre SANOU
+- Sy Lucien TRAORE
